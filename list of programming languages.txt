@@ -6,7 +6,6 @@ ABC
 ABC ALGOL
 ACC
 Accent
-Ace DASL (Distributed Application Specification Language)
 Action!
 ActionScript
 Actor
